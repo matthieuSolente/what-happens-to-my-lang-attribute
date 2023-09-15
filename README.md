@@ -67,11 +67,11 @@ N/A means I don't have access to code, or the code returned on testi@ is irrelev
 
 ## Conclusion
 
-on 38 clients/email support for which the code is accessible on testi@ (+ some real boxes) 
+On 38 clients/email support for which the code is accessible on testi@ (+ some real boxes) 
 
-On the HTML tag: the Lang attribute is respected 5 times 
-On the body tag: the lang attribute is respected 15 times 
-on the wrapping tag: the lang attribute is respected 20 times 
+- On the HTML tag: the Lang attribute is respected 5 times 
+- On the body tag: the lang attribute is respected 15 times 
+- On the wrapping tag: the lang attribute is respected 20 times 
 
 Outside Outlook, when the attribute is not specified on the body tag, it is specified on the wrapping tag 
 The html tag is the least reliable, but it is necessary to set the language of the document when the email is viewed on a browser 
