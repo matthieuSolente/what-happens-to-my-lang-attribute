@@ -43,15 +43,15 @@ A red X means that the attribute is not rendered in the tag / that the entire ta
 |Android 11 Gmail Pixel 4  | ❌  |&lt;div lang="es"&gt;  | &lt;center lang="es"&gt;  |
 | Samsung Mail - S20 Android  | &lt;html lang="es" xml:lang="es"&gt; | &lt;body lang="es" xml:lang="es"&gt; | &lt;center lang="es" xml:lang="es"&gt;|
 |Samsung Mail - A10 Android | &lt;html lang="es" xml:lang="es"&gt; | &lt;body lang="es" xml:lang="es"&gt; | &lt;center lang="es" xml:lang="es"&gt;|
-| Gmail - Chrome | ❌ | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
+| Gmail - Chrome | &lt;<html lang="en"&gt;** | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
 | Google Workspace - Chrome | ❌ | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
 | T-Online Chrome | ❌ | ❌ | &lt;center lang="es"&gt; |
 | Web.de | ❌ |❌ | &lt;center&gt; |
 | GMX Chrome | ❌ | ❌ | &lt;center&gt; |
 | Freenet.de | N/A | N/A | N/A |
-| Outlook Chrome | ❌ | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
-| Outlook Chrom dark | ❌ |&lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
-| Office 365 Chrome | ❌ |&lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
+| Outlook Chrome | &lt;<html lang="en"&gt;** | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
+| Outlook Chrom dark | &lt;<html lang="en"&gt;** |&lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
+| Office 365 Chrome | &lt;<html lang="en"&gt;** |&lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
 |Zimbra  | ❌ | &lt;body lang="es" xml:lang="es"&gt; | &lt;center lang="es" xml:lang="es"&gt;|
 | Mai.ru | &lt;html lang="en_US"&gt;** | ❌ | &lt;center lang="es"&gt; |
 | Yandex | ❌ | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
