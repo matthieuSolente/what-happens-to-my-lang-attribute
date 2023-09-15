@@ -77,9 +77,9 @@ Outside Outlook, when the attribute is not specified on the body tag, it is spec
 The html tag is the least reliable, but it is necessary to set the language of the document when the email is viewed on a browser 
 
 In conclusion, the lang attribute is therefore required : 
-on the html tag, 
-and preferably on a wrapping tag 
-The xml:lang="" attribute is sometimes respected but without added value, and does not appear in Outlook, so we can ignore this attribute
+- on the html tag, 
+- and preferably on a wrapping tag 
+- The xml:lang="" attribute is sometimes respected but without added value, and does not appear in Outlook, so we can ignore this attribute
 
 ```
 <html lang="es"> 
