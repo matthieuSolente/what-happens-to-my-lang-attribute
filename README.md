@@ -50,9 +50,9 @@ N/A means I don't have access to code, or the code returned on testi@ is irrelev
 | Web.de | ❌ |❌ | &lt;center&gt; |
 | GMX Chrome | ❌ | ❌ | &lt;center&gt; |
 | Freenet.de | N/A | N/A | N/A |
-| Outlook Chrome | &lt;<html lang="en"&gt;** | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
-| Outlook Chrom dark | &lt;<html lang="en"&gt;** |&lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
-| Office 365 Chrome | &lt;<html lang="en"&gt;** |&lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
+| Outlook Chrome | &lt;html lang="en"&gt;** | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
+| Outlook Chrom dark | &lt;html lang="en"&gt;** |&lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
+| Office 365 Chrome | &lt;html lang="en"&gt;** |&lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
 |Zimbra  | ❌ | &lt;body lang="es" xml:lang="es"&gt; | &lt;center lang="es" xml:lang="es"&gt;|
 | Mai.ru | &lt;html lang="en_US"&gt;** | ❌ | &lt;center lang="es"&gt; |
 | Yandex | ❌ | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
