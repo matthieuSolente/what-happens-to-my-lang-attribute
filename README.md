@@ -56,8 +56,8 @@ A red X means that the attribute is not rendered in the tag / that the entire ta
 | Mai.ru | &lt;html lang="en_US"&gt;** | ❌ | &lt;center lang="es"&gt; |
 | Yandex | ❌ | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
 | Yahoo/ AOL  | ❌ | ❌ | &lt;center lang="es"&gt; |
-| Libero | &lt;html lang="en"&gt; |❌ | &lt;center&gt; |
-| Wall!Mail | &lt;html lang="en"&gt; | ❌|  &lt;center lang="es"  xml:lang="es"&gt; |
+| Libero | &lt;html lang="en"&gt;** |❌ | &lt;center&gt; |
+| Wall!Mail | &lt;html lang="en"&gt;** | ❌|  &lt;center lang="es"  xml:lang="es"&gt; |
 | Ceznam | &lt;html lang="cz"&gt;** | &lt;div lang="un"&gt; |  &lt;center lang="es"&gt; |
 
 
