@@ -17,7 +17,7 @@ We also add the xml:lang="" attribute because the question is whether this attri
 <body lang="es" xml:lang="es">
 <center lang="es" xml:lang="es">
 ```
-A red X means that the attribute is not rendered in the tag / that the entire tag has been deleted or replaced by the mail client but without rendering our language attribute
+A red ❌ means that the attribute is not rendered in the tag / that the entire tag has been deleted or replaced by the mail client but without rendering our language attribute
 
 | Email Client  |  html         | body          | center|
 | ------------- | ------------- | ------------- | -------------|
