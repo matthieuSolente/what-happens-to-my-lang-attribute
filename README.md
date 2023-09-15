@@ -43,37 +43,24 @@ We also add the xml:lang="" attribute because the question is whether this attri
 | iPhone 12 Mini - iOS 14| N/A | N/A |  N/A|
 | iPhone XE iOS 14 | N/A | N/A |  N/A|
 | iPhone SE (Gen 2) iOS 14 | N/A | N/A |  N/A|
-| ------------- | ------------- | ------------- | -------------|
 |Android 11 Gmail Pixel 4  | &lt;html&gt;  |&lt;div lang="es"&gt;  | &lt;center lang="es"&gt;  |
-| ------------- | ------------- | ------------- | -------------|
 | Samsung Mail - S20 Android  | &lt;html lang="es" xml:lang="es"&gt; | &lt;body lang="es" xml:lang="es"&gt; | &lt;center lang="es" xml:lang="es"&gt;|
 |Samsung Mail - A10 Android | &lt;html lang="es" xml:lang="es"&gt; | &lt;body lang="es" xml:lang="es"&gt; | &lt;center lang="es" xml:lang="es"&gt;|
-| ------------- | ------------- | ------------- | -------------|
 | Gmail - Chrome | &lt;html&gt; | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
 | Google Workspace - Chrome | &lt;html&gt; | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
 | T-Online Chrome | &lt;html&gt; | &lt;body&gt; | &lt;center lang="es"&gt; |
-| ------------- | ------------- | ------------- | -------------|
 | Web.de | &lt;html&gt; | &lt;body&gt; | &lt;center&gt; |
 | GMX Chrome | &lt;html&gt; | &lt;body&gt; | &lt;center&gt; |
-| ------------- | ------------- | ------------- | -------------|
 | Freenet.de | N/A | N/A | N/A |
-| ------------- | ------------- | ------------- | -------------|
-| Outlook Chrome | &lt;html&gt; | &lt;html&gt; | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
-| Outlook Chrom dark | &lt;html&gt; | &lt;html&gt; | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
-| Office 365 Chrome | &lt;html&gt; | &lt;html&gt; | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
-| ------------- | ------------- | ------------- | -------------|
+| Outlook Chrome | &lt;html&gt; | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
+| Outlook Chrom dark | &lt;html&gt; |&lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
+| Office 365 Chrome | &lt;html&gt; |&lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
 |Zimbra  | &lt;html&gt; | &lt;body lang="es" xml:lang="es"&gt; | &lt;center lang="es" xml:lang="es"&gt;|
-| ------------- | ------------- | ------------- | -------------|
 | Mai.ru | &lt;html lang="en_US"&gt; | N/A | &lt;center lang="es"&gt; |
-| ------------- | ------------- | ------------- | -------------|
 | Yandex | &lt;html&gt; | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
-| ------------- | ------------- | ------------- | -------------|
 | Yahoo/ AOL  | &lt;html&gt; | N/A | &lt;center lang="es"&gt; |
-| ------------- | ------------- | ------------- | -------------|
 | Libero | &lt;html lang="en"&gt; | N/A | &lt;center&gt; |
-| ------------- | ------------- | ------------- | -------------|
 | Wall!Mail | &lt;html lang="en"&gt; | N/A |  &lt;center lang="es"  xml:lang="es"&gt; |
-| ------------- | ------------- | ------------- | -------------|
 | Ceznam | &lt;html lang="cz"&gt; | &lt;div lang="un"&gt; |  &lt;center lang="es"&gt; |
 
 
