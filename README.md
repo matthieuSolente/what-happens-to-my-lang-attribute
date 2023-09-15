@@ -45,6 +45,7 @@ N/A means I don't have access to code, or the code returned on testi@ is irrelev
 | Samsung Mail - S20 Android  | &lt;html lang="es" xml:lang="es"&gt; | &lt;body lang="es" xml:lang="es"&gt; | &lt;center lang="es" xml:lang="es"&gt;|
 |Samsung Mail - A10 Android | &lt;html lang="es" xml:lang="es"&gt; | &lt;body lang="es" xml:lang="es"&gt; | &lt;center lang="es" xml:lang="es"&gt;|
 | Gmail - Chrome | &lt;html lang="en"&gt;** | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
+| Laposte.net | &lt;html lang="en"&gt;** | ❌ | &lt;center lang="es" xml:lang="es"&gt; |
 | Google Workspace - Chrome | ❌ | &lt;div lang="es"&gt; | &lt;center lang="es"&gt; |
 | T-Online Chrome | ❌ | ❌ | &lt;center lang="es"&gt; |
 | Web.de | ❌ |❌ | &lt;center&gt; |
