@@ -6,9 +6,9 @@ This small repository aims to record the attitude of the lang attribute across a
 
 We start with a simple example. We indicate the attribute in three different places:
 
--the html tag
--the body tag
--a wrapping div
+- the html tag
+- the body tag
+- a wrapping div (Here I use a center tag to distinguish it from the div created by the mailbox)
 
 We also add the xml:lang="" attribute because the question is whether this attribute is useful or not for Outlook
 
