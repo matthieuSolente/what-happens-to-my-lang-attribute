@@ -18,6 +18,7 @@ We also add the xml:lang="" attribute because the question is whether this attri
 <center lang="es" xml:lang="es">
 ```
 A red ❌ means that the attribute is not rendered in the tag / that the entire tag has been deleted or replaced by the mail client but without rendering our language attribute
+N/A means I don't have access to code, or the code returned on testi@ is irrelevant
 
 | Email Client  |  html         | body          | center|
 | ------------- | ------------- | ------------- | -------------|
