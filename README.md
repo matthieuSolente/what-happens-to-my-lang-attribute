@@ -21,19 +21,16 @@ We also add the xml:lang="" attribute because the question is whether this attri
 
 | Email Client  |  html         | body          | center|
 | ------------- | ------------- | ------------- | -------------|
-| Outlook 2021  | ------------- | &lt;body lang="EN-US"&gt; | -------------|
-| Outlook 2019  | ------------- | &lt;body lang="EN-US"&gt; | -------------|
-|Office 365 (win 11) | ------------- | &lt;body lang="EN-US"&gt; | -------------|
-| Outlook 2016 | ------------- | &lt;body lang="EN-US"&gt; | -------------|
-| Outlook 2013 | ------------- | &lt;body lang="EN-US"&gt; | -------------|
-| ------------- | ------------- | ------------- | -------------|
+| Outlook 2021  |  | &lt;body lang="EN-US"&gt; | 
+| Outlook 2019  |  | &lt;body lang="EN-US"&gt; | |
+|Office 365 (win 11) |  | &lt;body lang="EN-US"&gt; | |
+| Outlook 2016 |  | &lt;body lang="EN-US"&gt; | |
+| Outlook 2013 |  | &lt;body lang="EN-US"&gt; | |
 | iphone 11 Gmail  | &lt;html&gt; | &lt;div lang="es"&gt; | &lt;center lang="es"&gt;|
 | iphone 12 Gmail iOS 14 dark  |&lt;div lang="es"&gt; | &lt;center lang="es"&gt;|
-| ------------- | ------------- | ------------- | -------------|
 | iphone 14 Gmail iOS 16 dark  | &lt;html lang="es" xml:lang="es"&gt; | &lt;body lang="es" xml:lang="es"&gt; | &lt;center lang="es" xml:lang="es"&gt;|
 | iphone 14 plus iOS 16 dark  | &lt;html lang="es" xml:lang="es"&gt; | &lt;body lang="es" xml:lang="es"&gt; | &lt;center lang="es" xml:lang="es"&gt;|
 |iphone 14 iOS 16 Pro Max | &lt;html lang="es" xml:lang="es"&gt; | &lt;body lang="es" xml:lang="es"&gt; | &lt;center lang="es" xml:lang="es"&gt;|
-| ------------- | ------------- | ------------- | -------------|
 |iphone 13 Pro Max iOS 15  |  N/A | N/A |  N/A|
 | iPad Air (Gen 4) iOS 15  | N/A | N/A |  N/A|
 |iPhone 13 iOS 15 | N/A | N/A |  N/A|
