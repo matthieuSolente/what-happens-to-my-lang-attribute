@@ -18,10 +18,9 @@ We also add the xml:lang="" attribute because the question is whether this attri
 <center lang="es" xml:lang="es">
 ```
 
-&lt;
 
 | Email Client  |  html         | body          | center|
-| ------------- | ------------- | &lt;body lang="EN-US"&gt; | -------------|
+| ------------- | ------------- | ------------- | -------------|
 | Outlook 2021  | ------------- | &lt;body lang="EN-US"&gt; | -------------|
 | Outlook 2019  | ------------- | &lt;body lang="EN-US"&gt; | -------------|
 |Office 365 (win 11) | ------------- | &lt;body lang="EN-US"&gt; | -------------|
