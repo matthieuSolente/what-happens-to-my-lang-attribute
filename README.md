@@ -63,7 +63,7 @@ N/A means I don't have access to code, or the code returned on testi@ is irrelev
 | Ceznam | &lt;html lang="cz"&gt;** | &lt;div lang="un"&gt; |  &lt;center lang="es"&gt; |
 
 
-* : On Outlook windows the body tag inherits the language settings defined in the system settings and/or the mailbox. 
+* : On Outlook windows the body tag inherits the language settings defined in the mailbox. 
 * **: In the case of webmails, the html tag inherits the language settings defined in the mailbox. 
 
 ## Conclusion
