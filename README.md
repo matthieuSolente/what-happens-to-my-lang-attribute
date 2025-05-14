@@ -8,14 +8,14 @@ We start with a simple example. We indicate the attribute in three different pla
 
 - the html tag
 - the body tag
-- a wrapping div (Here I use a center tag to distinguish it from the div created by the mailbox)
+- a wrapping div (Here we can use a center tag to distinguish it from the div created by the mailbox)
 
 We also add the xml:lang="" attribute because the question is whether this attribute is useful or not for Outlook
 
 ```
 <html lang="es" xml:lang="es" 
 <body lang="es" xml:lang="es">
-<center lang="es" xml:lang="es">
+<div lang="es" xml:lang="es">
 ```
 A red ❌ means that the attribute is not rendered in the tag / that the entire tag has been deleted or replaced by the mail client but without rendering our language attribute
 N/A means I don't have access to code, or the code returned on testi@ is irrelevant
@@ -86,7 +86,7 @@ In conclusion, the lang attribute is therefore required :
 ```
 <html lang="es"> 
 <body>
-<center lang="es">
+<div lang="es">
 ```
 
 
